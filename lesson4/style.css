@@ -1,0 +1,131 @@
+@media screen {}
+
+.field{    
+    display: flex;
+    justify-content: center;}
+
+.box1{
+    background-color: red;
+    width: 250px;
+    height: 550px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box2{
+    background-color: blue;
+    width: 250px;
+    height: 550px;
+}
+
+.box3{
+    background-color: green;
+    width: 250px;
+    height: 550px;
+    display: flex;
+    align-items: flex-end;
+}
+
+.tesuto1{
+    display: flex;
+    justify-content: center;
+}
+
+.box4{
+    background-color: white;
+    width: 40px;
+    height: 40px;  
+}
+
+.box5{
+    background-color: white;
+    width: 40px;
+    height: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+}    
+
+.box6{
+    background-color: white;
+    width: 40px;
+    height: 40px;
+}
+
+.tesuto2{
+    display: flex;
+    justify-content: right;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.box7{
+    background-color: white;
+    width: 40px;
+    height: 40px;
+}
+
+.box8{
+    background-color: white;
+    width: 40px;
+    height: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.box9{
+    background-color: white;
+    width: 40px;
+    height: 40px;
+    margin-right: 5px;
+}
+
+.tesuto3{
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+
+.box10{
+    background-color: white;
+    width: 40px;
+    height: 40px;
+}
+
+.box11{
+    background-color: white;
+    width: 40px;
+    height: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.box12{
+    background-color: white;
+    width: 40px;
+    height: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
