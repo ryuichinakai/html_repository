@@ -1,0 +1,22 @@
+@media screen{}
+
+.square-100 {
+    width: 170px;
+    height: 250px;
+  }
+  .back-color-black {
+    background-color: black;
+
+color: white;
+
+padding: 10px 0px;
+
+}
+  
+div {
+    border: solid 2px #000000;
+    width: 170px;
+    height: 250px;
+   
+  padding: 10px 0px;
+  }
